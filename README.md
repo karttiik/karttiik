@@ -17,6 +17,10 @@
 </p>
 
 <p align="center">
+  <em> ✔ My preferred programming language is Python </em>
+</p>
+
+<p align="center">
   <em> 🔭 I’m currently working on Coding Problems </em>
 </p>
 
@@ -30,13 +34,13 @@
   <em> 📫 How to reach me: </em>
 </p>
 
-<p align="center">
-  <em> LinkedIn : https://www.linkedin.com/in/karttiik/ </em>
-</p>
-
-<p align="center">
+<p align="center">  
   <em> Gmail : kartik04bhatia@gmail.com </em>
 </p>
+
+[LinkedIn : Kartik Bhatia](https://www.linkedin.com/in/karttiik/)
+
+
 
 <hr>
   
