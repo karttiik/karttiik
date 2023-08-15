@@ -4,7 +4,7 @@
 
 <hr>
 <h1 align="center">Hi there, I am Kartik Bhatia 👋</h1>
-<h3 align="center">Aspiring Software Engineer | Data Engineering | Big Data</h3>
+<h3 align="center">Software Engineer | Data Engineering | Big Data</h3>
 
 <hr>
 
