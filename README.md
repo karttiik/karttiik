@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <em> 🌱 I’m currently working with Big Data tools </em>
+  <em> 🌱 I’m currently learning Big Data tools </em>
 </p>
 
 <hr>
