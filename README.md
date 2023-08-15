@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <em> ✔ My preferred programming language is Python </em>
+  <em> ✔ My preferred programming language is Python, and SQL </em>
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <em> 🌱 I’m currently learning Big Data tools </em>
+  <em> 🌱 I’m currently working with Big Data tools </em>
 </p>
 
 <hr>
